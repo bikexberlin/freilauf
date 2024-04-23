@@ -30,9 +30,8 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
 
 ### <a name="Kurzfassung"></a> Kurzfassung
-**"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
-- Zusammen mit dem Fahrrad zum freilauf
-- Gemeinsame Tour am Donnerstag ODER Freitag 8.8. ODER 9.8.:
+**"Das ist mir alles zu viel Text!"** Hier nochmal die Kurzversion:
+- Gemeinsame Radtour am Donnerstag ODER Freitag 8.8. ODER 9.8.:
 - Donnerstag ODER Freitag, **10:30**, 80 km ab [Treffpunkt](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Bhf Wannensee
 - Gepäcktransport möglich: Bis zu 1 Zelt + 1 Gepäckstück können wir für euch transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
