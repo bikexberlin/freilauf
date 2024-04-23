@@ -20,27 +20,24 @@ Routen:
 
 **"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Routen hier in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir Gleichgesinnte und hau rein, wenn es dir bei uns zu langsam wird. 
 
-**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransport, der euch ein großes Gepäckstück und ein Zelt zum freilauf fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann leichter sind oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
+**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransport, der euch ein großes Gepäckstück und ein Zelt zum freilauf fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann leichter sind.
 
-**"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Die Nation supportet die Touren und wir haben euch gern mit dabei :)
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
-- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Donnerstag, 19.7. 18:00 Uhr_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
+- Bitte meldet euch in unserer Telegram-Gruppe an, damit wir kurzfristige Infos teilen können
 - Beschriftet euer Gepäck mit Namen und Adresse. 
-- Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
+- Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
 
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
-- Zusammen mit dem Fahrrad zur Nation
-- 5 gemeinsame Touren am Freitag 21.7.:
-- Freitag, **10:30** und **14:30**, 42 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
-- Freitag, **11:30**, **15:30** und **17:30**, 22 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
-- Bis zum _Donnerstag 19.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
-- Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
+- Zusammen mit dem Fahrrad zum freilauf
+- Gemeinsame Tour am Donnerstag ODER Freitag 8.8. ODER 9.8.:
+- Donnerstag ODER Freitag, **10:30**, 80 km ab [Treffpunkt](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Bhf Wannensee
+- Gepäcktransport möglich: Bis zu 1 Zelt + 1 Gepäckstück können wir für euch transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Telegram-Gruppe für Austausch und Fragen: [Telegram Gruppe](https://t.me/+XsqBDVuJKdsyMWUy)
+- Telegram-Gruppe für Austausch und Fragen: [Telegram Gruppe](https://t.me/+wVbK3P9SBm5mYWNi)
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
