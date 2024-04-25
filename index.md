@@ -8,7 +8,7 @@
 Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle, die von Berlin aus zum freilauf wollen, bietet sich die Möglichkeit gemeinsam als Bande zu fahren. Vermeidet gemeinsam mit uns übervolle, stickige Züge.
 
 bikeX organisiert bei verschiedensten Festivals die MitRadgelegenheit, so auch beim freilauf: 
-- Aus dem Berliner Süden am Donnerstag ODER Freitag um 10:30 Uhr (?) geht es los vom S Bahnhof Wannensee [Treffpunkt](https://www.openstreetmap.org/?mlat=52°25'16.7mlon=13°10'41.3#map=19/52.54940/13.38590). Die Strecke ist etwa 80 km lang. 
+- Aus dem Berliner Süden am Donnerstag ODER Freitag um 10:30 Uhr (?) geht es los vom S Bahnhof Wannensee [Treffpunkt](https://www.openstreetmap.org/?mlat=52.42117&mlon=13.17808#map=19/52.421117/13.17808). Die Strecke ist etwa 80 km lang. 
  
 Die Gruppe wird von drei erfahrenen Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd.
 
@@ -31,7 +31,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Hier nochmal die Kurzversion:
 - Gemeinsame Radtour am Donnerstag ODER Freitag 8.8. ODER 9.8.:
-- Donnerstag ODER Freitag, **10:30**, 80 km ab [Treffpunkt](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Bhf Wannensee
+- Donnerstag ODER Freitag, **10:30**, 80 km ab [Treffpunkt](https://www.openstreetmap.org/?mlat=52.42117&mlon=13.17808#map=19/52.421117/13.17808) am S Bhf Wannensee
 - Gepäcktransport möglich: Bis zu 1 Zelt + 1 Gepäckstück können wir für euch transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -45,7 +45,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to freilauf there is the great opportunity to ride your bike. Be part of our group an avoid overcrowded, stuffy trains.
 
 bikex organizes in different festivals the ride by bike, also the freilauf: 
-- from south Berlin thursday OR friday at 10.30 Uhr from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) near S Bhf Wannensee. The route is about 80 km long. 
+- from south Berlin thursday OR friday at 10.30 Uhr from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.42117&mlon=13.17808#map=19/52.421117/13.17808) near S Bhf Wannensee. The route is about 80 km long. 
  
 The group will be accompanied by three experienced cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas.
 
@@ -69,7 +69,7 @@ Please note the following so that we can all have a relaxed journey:
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"**  Here's the short version again:
-- Thursday OR Friday 8.8. at **10:30**, 80 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S Bahn Station Wannensee
+- Thursday OR Friday 8.8. at **10:30**, 80 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.42117&mlon=13.17808#map=19/52.421117/13.17808) at S Bahn Station Wannensee
 - We can transport up to 1 tent + 1 piece of luggage. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
