@@ -44,7 +44,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 
 We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to freilauf there is the great opportunity to ride your bike. Be part of our group an avoid overcrowded, stuffy trains.
 
-bikex organizes in different festivals the ride by bike, also the freilauf: 
+bikex organizes community bike rides to different festivals, also to freilauf: 
 - from south Berlin thursday OR friday at 10.30 Uhr from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.42117&mlon=13.17808#map=19/52.421117/13.17808) near S Bhf Wannensee. The route is about 80 km long. 
  
 The group will be accompanied by three experienced cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas.
