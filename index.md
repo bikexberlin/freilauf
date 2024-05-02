@@ -13,7 +13,7 @@ bikeX organisiert bei verschiedensten Festivals die MitRadgelegenheit, so auch b
 Die Gruppe wird von drei erfahrenen Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd.
 
 Routen:
- - Berlin - FRE!AUF: [Komoot](https://www.komoot.com/de-de/tour/1505368685?share_token=aqBQ6Zrg4Y13gebDNTp4RATbQqFAiChYv8sGFGo7J141nbFIt3&ref=wtd)  [GPX](assets/routes/Berlin-NoG23.gpx)
+ - Berlin - FRE!AUF: [Komoot](https://www.komoot.com/de-de/tour/1549377922)  [GPX](assets/routes/Berlin-NoG23.gpx)
    
 **"So sportlich bin ich nicht!"**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit. 
 
@@ -50,7 +50,7 @@ bikex organizes community bike rides to different festivals, also to FRE!LAUF (D
 The group will be accompanied by three experienced cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas.
 
 routes:
- - Berlin - FRE!LAUF: [Komoot](https://www.komoot.com/de-de/tour/1505368685?share_token=aqBQ6Zrg4Y13gebDNTp4RATbQqFAiChYv8sGFGo7J141nbFIt3&ref=wtd) [GPX](assets/routes/Berlin-NoG23.gpx)  
+ - Berlin - FRE!LAUF: [Komoot](www.komoot.com/de-de/tour/1549377922) [GPX](assets/routes/Berlin-NoG23.gpx)  
 
 For joining the group ride you only need a festival ticket.
 
