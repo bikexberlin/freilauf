@@ -32,7 +32,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Hier nochmal die Kurzversion:
 - Gemeinsame Radtour:
-- Donnerstag, den 8.8. und Freitag, den 9.8. um **10:30**, 70 km ab Potsdam Hauptbahnhof (vor dem Blu Schwimmbad) [Treffpunkt](https://www.openstreetmap.org/?mlat=52.42117&mlon=13.17808#map=19/52.421117/13.17808)
+- Donnerstag, den 8.8. und Freitag, den 9.8. um **10:30**, 70 km ab Potsdam Hauptbahnhof (vor dem Blu Schwimmbad) [Treffpunkt]((https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174))
 - Gepäcktransport möglich: Bis zu 1 Zelt + 1 Gepäckstück können wir für euch transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
