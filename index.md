@@ -71,7 +71,7 @@ Please note the following so that we can all have a relaxed journey:
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"**  Here's the short version again:
-- Thursday and Friday at **10:30**, 70 km from [Treffpunkt]((https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174)) at S Bahn Station Wannensee
+- Thursday and Friday at **10:30**, 70 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) at S Bahn Station Wannensee
 - We can transport up to 1 tent + 1 piece of luggage. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
