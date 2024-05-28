@@ -8,7 +8,7 @@
 Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle, die von Berlin aus zum FRE!LAUF (D.I.Y. Bike Camp) wollen, bietet sich die Möglichkeit gemeinsam als Bande zu fahren. Vermeidet gemeinsam mit uns übervolle, stickige Züge.
 
 bikeX organisiert bei verschiedensten Festivals die MitRadgelegenheit, so auch beim FRE!LAUF: 
-- Vom Potsdamer Hauptbahnhof - genauer: vor dem blu Schwimmbad-  werden wir am Donnerstag und Freitag jeweils um 10:30 Uhr die Tour gemeinsam starten. [Treffpunkt](https://www.openstreetmap.org/?mlat=52°23'24.5&mlon=13°03'51.0#map=19/52.421117/13.17808). Die Strecke ist etwa 70 km lang. 
+- Vom Potsdamer Hauptbahnhof - genauer: vor dem blu Schwimmbad-  werden wir am Donnerstag und Freitag jeweils um 10:30 Uhr die Tour gemeinsam starten. [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.421117/13.17808). Die Strecke ist etwa 70 km lang. 
  
 Die Gruppe wird von Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd. Wenn wir genügend Menschen zusammen bekommen, werden wir vielleicht das ein oder andere Mal auch auf der Straße kurze Strecken zurücklegen.
 
