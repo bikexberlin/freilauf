@@ -32,7 +32,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Hier nochmal die Kurzversion:
 - Gemeinsame Radtour:
-- Donnerstag, den 8.8. und Freitag, den 9.8. um **10:30**, 70 km ab Potsdam Hauptbahnhof (vor dem Blu Schwimmbad) [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174)
+- Donnerstag, den 8.8. und Freitag, den 9.8. um **10:30**, ca. 70 km ab Potsdam Hauptbahnhof (vor dem Blu Schwimmbad) [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174)
 - Gepäcktransport möglich: Bis zu 1 Zelt + 1 Gepäckstück können wir für euch transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -71,7 +71,7 @@ Please note the following so that we can all have a relaxed journey:
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"**  Here's the short version again:
-- Thursday and Friday at **10:30**, 70 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) at S Bahn Station Wannensee
+- Thursday and Friday at **10:30**, about 70 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) at blue swim hall (near Potsdam Hbf) 
 - We can transport up to 1 tent + 1 piece of luggage. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
