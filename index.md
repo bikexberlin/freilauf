@@ -19,7 +19,7 @@ Routen:
 
 **"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Routen hier in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir Gleichgesinnte und hau rein, wenn es dir bei uns zu langsam wird. 
 
-**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransport, der euch ein großes Gepäckstück und ein Zelt zum FRE!LAUF (D.I.Y. Bike Camp) fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann leichter sind.
+**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransport, der euch ein großes Gepäckstück und ein Zelt zum FRE!LAUF (D.I.Y. Bike Camp) fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass eure Sachen dann leichter sind.
 
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
