@@ -8,7 +8,7 @@
 Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle, die von Berlin aus zum FRE!LAUF (D.I.Y. Bike Camp) wollen, bietet sich die Möglichkeit gemeinsam als Bande zu fahren. Vermeidet gemeinsam mit uns übervolle, stickige Züge.
 
 bikeX organisiert bei verschiedensten Festivals die MitRadgelegenheit, so auch beim FRE!LAUF: 
-- Vom Potsdamer Hauptbahnhof - genauer: vor dem blu Schwimmbad-  werden wir am Donnerstag und Freitag jeweils um 10:30 Uhr die Tour gemeinsam starten. [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174). Die Strecke ist etwa 70 km lang. 
+- Vom Potsdamer Hauptbahnhof - genauer: vor dem blu Schwimmbad-  werden wir am Donnerstag um 10.30 Uhr und um 16 Uhr die Tour gemeinsam starten. [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174). Die Strecke ist etwa 70 km lang. 
  
 Die Gruppe wird von Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd. Wenn wir genügend Menschen zusammen bekommen, werden wir vielleicht das ein oder andere Mal auch auf der Straße kurze Strecken zurücklegen.
 
@@ -32,7 +32,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Hier nochmal die Kurzversion:
 - Gemeinsame Radtour:
-- Donnerstag, den 8.8. und Freitag, den 9.8. um **10:30**, ca. 70 km ab Potsdam Hauptbahnhof (vor dem Blu Schwimmbad) [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174)
+- Donnerstag, den 8.8. um **10:30 Uhr**, und um **16 Uhr**,ca. 70 km ab Potsdam Hauptbahnhof (vor dem Blu Schwimmbad) [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174)
 - Gepäcktransport möglich: Bis zu 1 Zelt + 1 Gepäckstück können wir für euch transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -46,7 +46,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to FRE!LAUF there is the great opportunity to ride your bike. Be part of our group an avoid overcrowded, stuffy trains.
 
 bikex organizes community bike rides to different festivals, also to FRE!LAUF (D.I.Y.Bike Camp): 
-- from blu swim hall thursday and friday at 10.30 Uhr from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) near Potsdam Hauptbahnhof. The route is about 70 km long. 
+- from blu swim hall thursday at 10.30 Uhr and at 4 p.m. from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) near Potsdam Hauptbahnhof. The route is about 70 km long. 
  
 The group will be accompanied by cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas. If enough people will join the tour we will possibly take the street for some parts.
 
@@ -71,7 +71,7 @@ Please note the following so that we can all have a relaxed journey:
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"**  Here's the short version again:
-- Thursday and Friday at **10:30**, about 70 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) at blue swim hall (near Potsdam Hbf) 
+- Thursday at **10:30**, and at **4 pm** about 70 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) at blue swim hall (near Potsdam Hbf) 
 - We can transport up to 1 tent + 1 piece of luggage. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
