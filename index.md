@@ -23,7 +23,7 @@ Routen:
 
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
-- Bitte meldet euch in unserer Telegram-Gruppe an, damit wir kurzfristige Infos teilen können [Telegram Gruppe](https://t.me/+wVbK3P9SBm5mYWNi)
+- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Montag, 05.08. 18:00 Uhr_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [FRE!LAUF Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/zBvooRwyKVbKIyKnx2AO-431GJefP4xDeyNF3kwpbIQ/)
 - Beschriftet euer Gepäck mit Namen und Adresse. 
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
@@ -33,6 +33,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 **"Das ist mir alles zu viel Text!"** Hier nochmal die Kurzversion:
 - Gemeinsame Radtour:
 - Donnerstag, den 8.8. um **10:30 Uhr**, und um **16 Uhr**,ca. 70 km ab Potsdam Hauptbahnhof (vor dem Blu Schwimmbad) [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174)
+- Bis zum _Montag 5.8., 18:00_ hier registrieren: [FRE!LAUF Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/zBvooRwyKVbKIyKnx2AO-431GJefP4xDeyNF3kwpbIQ/)
 - Gepäcktransport möglich: Bis zu 1 Zelt + 1 Gepäckstück können wir für euch transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -63,7 +64,7 @@ For joining the group ride you only need a festival ticket.
 
 
 Please note the following so that we can all have a relaxed journey:
-- Register on the our telgram group, so we can send information easliy and direct [Telegram Gruppe](https://t.me/+wVbK3P9SBm5mYWNi)
+- Register on the following form _until monday, 6.8. 18:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [FRE!LAUF bike tour registration](https://cryptpad.fr/form/#/2/form/view/zBvooRwyKVbKIyKnx2AO-431GJefP4xDeyNF3kwpbIQ/)
 - Label your luggage with your name and address.
 - Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missing for other travellers.
 - Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike ready for spring.
@@ -71,7 +72,8 @@ Please note the following so that we can all have a relaxed journey:
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"**  Here's the short version again:
-- Thursday at **10:30**, and at **4 pm** about 70 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) at blue swim hall (near Potsdam Hbf) 
+- Thursday at **10:30**, and at **4 pm** about 70 km from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) at blue swim hall (near Potsdam Hbf)
+- Register _until monday, 6.8. 18:00_ at: [FRE!LAUF bike tour registration](https://cryptpad.fr/form/#/2/form/view/zBvooRwyKVbKIyKnx2AO-431GJefP4xDeyNF3kwpbIQ/)
 - We can transport up to 1 tent + 1 piece of luggage. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
