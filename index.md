@@ -8,8 +8,8 @@
 Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle, die von Berlin aus zum FRE!LAUF (D.I.Y. Bike Camp) wollen, bietet sich die Möglichkeit gemeinsam als Bande zu fahren. Vermeidet gemeinsam mit uns übervolle, stickige Züge.
 
 bikeX organisiert bei verschiedensten Festivals die MitRadgelegenheit, so auch beim FRE!LAUF: 
-- Vom Potsdamer Hauptbahnhof - genauer: vor dem blu Schwimmbad-  werden wir am Donnerstag um 10.30 Uhr und um 16 Uhr die Tour gemeinsam starten. [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174). Die Strecke ist etwa 70 km lang.
-- Hier findet ihr die Infos zur Strecke Potsdam- FRE!LAUF: [komoot](https://www.komoot.com/de-de/tour/1745553211) und [.gpx](assets/route/Potsdam-Freilauf24.gpx)
+- Vom Potsdamer Hauptbahnhof - genauer: vor dem blu Schwimmbad-  werden wir am Donnerstag um 10.30 Uhr und um 16 Uhr die Tour gemeinsam starten. [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174). Die Strecke ist 76 km lang.
+- Hier findet ihr die Infos zur Strecke Potsdam- FRE!LAUF: [Komoot](https://www.komoot.com/de-de/tour/1745553211) und [GPX](assets/route/Potsdam-Freilauf24.gpx)
  
 Die Gruppe wird von Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd. Wenn wir genügend Menschen zusammen bekommen, werden wir vielleicht das ein oder andere Mal auch auf der Straße kurze Strecken zurücklegen.
 
@@ -48,7 +48,8 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to FRE!LAUF there is the great opportunity to ride your bike. Be part of our group an avoid overcrowded, stuffy trains.
 
 bikex organizes community bike rides to different festivals, also to FRE!LAUF (D.I.Y.Bike Camp): 
-- from blu swim hall thursday at 10.30 Uhr and at 4 p.m. from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) near Potsdam Hauptbahnhof. The route is about 70 km long. 
+- from blu swim hall thursday at 10.30 Uhr and at 4 p.m. from [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174) near Potsdam Hauptbahnhof. The route is 76 km long.
+- Here you can find the information for the tour Potsdam- FRE!LAUF: [Komoot](https://www.komoot.com/de-de/tour/1745553211) und [GPX](assets/route/Potsdam-Freilauf24.gpx) 
  
 The group will be accompanied by cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. OsmAnd, for example, is a good app with offline map material for Brandenburg's no signal areas. If enough people will join the tour we will possibly take the street for some parts.
 
