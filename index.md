@@ -9,7 +9,7 @@ Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für al
 
 bikeX organisiert bei verschiedensten Festivals die MitRadgelegenheit, so auch beim FRE!LAUF: 
 - Vom Potsdamer Hauptbahnhof - genauer: vor dem blu Schwimmbad-  werden wir am Donnerstag um 10.30 Uhr und um 16 Uhr die Tour gemeinsam starten. [Treffpunkt](https://www.openstreetmap.org/?mlat=52.390134&mlon=13.064174#map=19/52.390134/13.064174). Die Strecke ist etwa 70 km lang.
-- Hier findet ihr die Infos zur Strecke Potsdam- FRE!LAUF [komoot](https://www.komoot.com/de-de/tour/1745553211) | [.gpx](assets/route/Potsdam-Freilauf24.gpx)
+- Hier findet ihr die Infos zur Strecke Potsdam- FRE!LAUF [komoot](https://www.komoot.com/de-de/tour/1745553211) und [.gpx](assets/route/Potsdam-Freilauf24.gpx)
  
 Die Gruppe wird von Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd. Wenn wir genügend Menschen zusammen bekommen, werden wir vielleicht das ein oder andere Mal auch auf der Straße kurze Strecken zurücklegen.
 
